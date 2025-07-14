@@ -51,7 +51,7 @@ ul.circle{
 
    ul.circle li::marker{
     font-family: 'wingdings';
-    content: "\F0FC "; /* Unicode for a Wingdings symbol, e.g., a checkmark */
+    content: "\F04A"; /* Unicode for a Wingdings symbol, e.g., a checkmark */
     padding-left: 0.5em;
    }
 
