@@ -48,13 +48,6 @@ ul.circle{
     
     margin-top: 0.25em;
    }
-
-   ul.circle li::marker{
-    font-family: 'wingdings';
-    content: "\F04A"; /* Unicode for a Wingdings symbol, e.g., a checkmark */
-    padding-left: 0.5em;
-   }
-
 ol.lower_alpha{
     list-style-type: lower-alpha;
     margin: 0.25em;
