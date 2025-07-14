@@ -45,10 +45,13 @@ footer{
 }
 ul.circle{
     list-style-type: "#";
+    
     margin-top: 0.25em;
    }
 
-   ul.circle li{
+   ul.circle li::marker{
+    font-family: 'wingdings';
+    content: "\F0FC "; /* Unicode for a Wingdings symbol, e.g., a checkmark */
     padding-left: 0.5em;
    }
 
