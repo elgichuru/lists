@@ -46,9 +46,10 @@ footer{
 ul.circle{
     list-style-type: square;
 }
-ol.lower-alpha{
+ol.lower_alpha{
     list-style-type: lower-alpha;
 }
+
 
 
 
