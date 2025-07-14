@@ -43,6 +43,12 @@ footer{
     border-top: 1px solid orange;
     font-weight: bold;
 }
+ul.circle{
+    list-style-type: square;
+}
+ol.lower-alpha{
+    list-style-type: lower-alpha;
+}
 
 
 
