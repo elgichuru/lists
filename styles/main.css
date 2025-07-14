@@ -47,9 +47,9 @@ ul.circle{
     list-style-type: "#";
     margin-top: 0.25em;
    }
-   
+
    ul.circle li{
-    padding-left: 1em;
+    padding-left: 0.5em;
    }
 
 ol.lower_alpha{
