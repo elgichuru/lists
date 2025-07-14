@@ -44,11 +44,26 @@ footer{
     font-weight: bold;
 }
 ul.circle{
-    list-style-type: square;
-}
+    list-style-type: "#";
+    margin-top: 0.25em;
+   }
+   
+   ul.circle li{
+    padding-left: 1em;
+   }
+
 ol.lower_alpha{
     list-style-type: lower-alpha;
+    margin: 0.25em;
 }
+ol.lower_roman{
+    list-style-type: lower-roman;
+    margin: 0.25em;
+}
+ol.lower_roman li{
+    padding-left: 1em;
+}
+
 
 
 
