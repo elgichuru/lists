@@ -59,6 +59,9 @@ ol.lower_roman{
 ol.lower_roman li{
     padding-left: 1em;
 }
+ol.start{
+    list-style-type: decimal decimal-leading-zero;
+}
 
 
 
