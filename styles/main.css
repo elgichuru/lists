@@ -60,9 +60,16 @@ ol.lower_roman li{
     padding-left: 1em;
 }
 ol.start{
-    list-style-type: decimal decimal-leading-zero;
+    list-style-type: decimal-leading-zero;
 }
-
+aside.aside{
+    float: right;
+    border: 1px solid black;
+    background-color: darkgoldenrod;
+}
+ul.aside li{
+    list-style-type:"#";
+}
 
 
 
