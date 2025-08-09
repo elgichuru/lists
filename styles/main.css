@@ -59,8 +59,14 @@ ol.lower_roman{
 ol.lower_roman li{
     padding-left: 1em;
 }
-
-
+a:link{
+    color: green;
+    font-style: italic;
+}
+a:visited,a:hover{
+    color: purple;
+    font-style: italic;
+}
 
 
 
