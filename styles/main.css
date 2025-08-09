@@ -59,7 +59,10 @@ ol.lower_roman{
 ol.lower_roman li{
     padding-left: 1em;
 }
-
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
 
 
 
