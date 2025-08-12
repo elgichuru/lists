@@ -67,7 +67,14 @@ a:visited,a:hover{
     color: purple;
     font-style: italic;
 }
-
+#nav_list ul{
+    list-style-type: none;
+    margin-left: 1.25em;
+    margin-bottom: 1.25em;
+}
+#nav_list ul li{
+    margin-bottom: 0.5em;
+}
 
 
 
