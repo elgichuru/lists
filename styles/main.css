@@ -73,7 +73,9 @@ a:visited,a:hover{
     margin-bottom: 1.25em;
 }
 #nav_list ul li{
-    margin-bottom: 0.5em;
+    width: 200px;
+    margin-bottom: .5em;
+    border: 2px solid blue
 }
 
 
