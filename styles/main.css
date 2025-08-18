@@ -71,11 +71,15 @@ a:visited,a:hover{
     list-style-type: none;
     margin-left: 1.25em;
     margin-bottom: 1.25em;
+    border: 2px solid black;
+    margin-right: 1.25em;
+    
 }
 #nav_list ul li{
     width: 200px;
     margin-bottom: .5em;
-    border: 2px solid blue
+    border: 2px solid blue;
+    margin-top: 1.25em;
 }
 
 
